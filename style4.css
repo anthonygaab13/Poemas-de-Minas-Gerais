@@ -1,0 +1,115 @@
+/* Autor: Anthony Gabriel dos Santos 
+* Trabalho Senai
+* do site Poemas
+*/
+
+.body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+.main{
+    font-size: 17px;
+    color: black;
+    text-align: center;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    background-color: rgb(116, 37, 37);
+
+}
+
+
+#rodape{
+    font-size: 17px;
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+/* Formulario de Contato */
+.main-contato {
+    background-color: white;
+    text-align: center;
+}
+
+#form1{
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.form-contato .campo {
+    margin-bottom: 20px;
+}
+
+.form-contato .campo label{
+    color: #414141;
+    font-size: 16px;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-contato .campo input{
+    border: 1px solid #c3c3c3;
+border-radius:4px ;
+background-color: #eaeaea;
+height: 40px;
+padding: 0 10px;
+width: 90%;
+}
+.form-contato .campo textarea{
+border: 1px solid #c3c3c3;
+border-radius:4px ;
+background-color: #eaeaea;
+padding:10px;
+width: 90%;
+resize: none;
+}
+
+.form-contato #botao-form{
+border-radius: 3px;
+background-color: #cb2737;
+color:#fff;
+padding: 15px 80px;
+font-size: 18px;
+font-weight: bold;
+
+}
+.form-contato #botao-form:hover{
+    background-color: #db3b4a;
+    color: yellow;
+}
+/* Videos Sobre */
+
+
+.meuvideo{
+    
+    font-size: 17px;
+    color: black;
+    text-align: center;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+
+
+}
+
+.Título{
+    text-align: center;
+    color: black;
+
+
+
+
+}

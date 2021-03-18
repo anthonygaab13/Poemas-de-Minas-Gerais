@@ -1,0 +1,38 @@
+/* Autor: Anthony Gabriel dos Santos 
+* Trabalho Senai
+* do site Poemas
+*/
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#containerPrincipal{
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+#corpo{
+    font-size: 17px;
+    color: gray;
+    text-align: center;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    background-color: rgb(138, 22, 22);
+
+}
+
+#rodape{
+    font-size: 17px;
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: gray;
+
+
+}
